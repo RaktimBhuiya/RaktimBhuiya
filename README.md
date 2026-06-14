@@ -103,12 +103,10 @@
 
 ## 📊 GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaktimBhuiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=RaktimBhuiya&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaktimBhuiya&theme=dark&hide_border=false&layout=compact)
-
----
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=RaktimBhuiya&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=false" />
+</p>
