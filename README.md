@@ -10,11 +10,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My idea of adventure is deploying on a Friday evening. 😄
 
-- ## 🌐 Socials
+- ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/raktim-bhuiya-9215821a9)
-
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:raktimbhuiya.2000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 
 ## 💻 Tech Stack
