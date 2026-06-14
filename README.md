@@ -4,14 +4,13 @@
 
 ## 🧑‍💻 About Me
 
-```text
-🚀  Working on  →  #90DaysOfDevOpsChallenge  (Day ~38 of 90)
-🌱  Learning    →  DevOps Fundamentals
-🤝  Collab on   →  DevOps · Cloud · Terraform · CI/CD · Docker · K8s · Open Source
-💬  Ask me      →  Collaboration & Tech Support
-📫  Reach me    →  raktimbhuiya.2000@gmail.com
-⚡  Fun fact    →  My idea of adventure is deploying on a Friday evening 😄
-```
+- 🔭 I’m currently working on: #90DaysOfDevOpsChallenge
+- 🌱 I’m currently learning: DevOps Fundamentals
+- 👯 I’m looking to collaborate on: DevOps, Cloud, Infrastructure as Code (Terraform), CI/CD, Docker, Kubernetes, and Open Source projects.
+- 💬 Ask me about: Collaboration, Tech Support
+- 📫 How to reach me: raktimbhuiya.2000@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: My idea of adventure is deploying on a Friday evening. 😄
 
 - ## 🌐 Socials:
 
