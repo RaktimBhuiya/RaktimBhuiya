@@ -116,3 +116,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RaktimBhuiya&theme=dark&hide_border=false" />
 </p>
+
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=RaktimBhuiya&color=0072C6&style=for-the-badge&label=PROFILE+VIEWS)
