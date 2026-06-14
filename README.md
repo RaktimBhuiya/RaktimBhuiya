@@ -16,7 +16,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 
-## 🐍 My Contributions
+# My Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaktimBhuiya/RaktimBhuiya/output/github-contribution-grid-snake-dark.svg">
