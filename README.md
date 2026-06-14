@@ -18,27 +18,59 @@
 
 ## 💻 Tech Stack
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<!-- Cloud Platforms -->
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Virtual Machines](https://img.shields.io/badge/Azure%20Virtual%20Machines-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Load Balancer](https://img.shields.io/badge/Azure%20Load%20Balancer-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure API Management](https://img.shields.io/badge/Azure%20APIM-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Application Gateway](https://img.shields.io/badge/Azure%20App%20Gateway-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+<!-- DevOps & CI/CD -->
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%23121011.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+<!-- Infrastructure as Code -->
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Azure Bicep](https://img.shields.io/badge/Azure%20Bicep-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+<!-- Containers & Orchestration -->
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+<!-- Networking & Security -->
+![Azure Firewall](https://img.shields.io/badge/Azure%20Firewall-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Palo Alto](https://img.shields.io/badge/Palo%20Alto%20Firewall-%23FA4616.svg?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
+![Azure Key Vault](https://img.shields.io/badge/Azure%20Key%20Vault-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![VPN Gateway](https://img.shields.io/badge/VPN%20Gateway-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![WAF](https://img.shields.io/badge/WAF-%23FF0000.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+<!-- Monitoring & Logging -->
+![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Log Analytics](https://img.shields.io/badge/Log%20Analytics-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Application Insights](https://img.shields.io/badge/Application%20Insights-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+<!-- CDN & Messaging -->
+![Akamai](https://img.shields.io/badge/Akamai-%23009BDE.svg?style=for-the-badge&logo=akamai&logoColor=white)
+![SendGrid](https://img.shields.io/badge/SendGrid-%2399E1F4.svg?style=for-the-badge&logo=sendgrid&logoColor=black)
+
+<!-- Automation & Scripting -->
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+
+<!-- Operating Systems -->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows11&logoColor=white)
 
 
 
 ## 📊 GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaktimBhuiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=dark&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=RaktimBhuiya&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaktimBhuiya&theme=dark&hide_border=false&layout=compact)
 
 ---
 
