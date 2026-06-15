@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-I am an aspiring Azure DevOps Engineer passionate about automating infrastructure and building scalable cloud solutions. I am constantly learning, exploring new technologies, and applying best practices to solve real-world problems.
+**I am an aspiring DevOps Engineer passionate about automating infrastructure and building scalable cloud solutions. I am constantly learning, exploring new technologies, and applying best practices to solve real-world problems.**
 
 - 🔭 **I’m currently working on:** #90DaysOfDevOpsChallenge
 - 🌱 **I’m currently learning:** DevOps Fundamentals
