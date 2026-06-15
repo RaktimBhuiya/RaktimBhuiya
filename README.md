@@ -1,7 +1,6 @@
 ## Hi there 👋 I am Raktim Bhuiya
 
 ## 🚀 Azure Cloud & DevOps Engineer | Cloud & Automation Enthusiast
-
 ## 🧑‍💻 About Me
 
 **I am an aspiring DevOps Engineer passionate about automating infrastructure and building scalable cloud solutions. I am constantly learning, exploring new technologies, and applying best practices to solve real-world problems.**
