@@ -14,7 +14,6 @@
 - ⚡ **Fun fact:** My idea of adventure is deploying on a Friday evening. 😄
 
 - ## 🌐 Socials:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 <picture>
